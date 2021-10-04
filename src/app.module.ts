@@ -1,7 +1,7 @@
 import { Module } from '@nestjs/common';
-import { PasswordModule } from './password/password.module';
+import { AliveModule } from './alive/alive.module';
 
 @Module({
-  imports: [PasswordModule],
+  imports: [AliveModule]
 })
 export class AppModule {}
