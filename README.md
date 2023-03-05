@@ -1,1 +1,3 @@
-run with npm start
+docker-compose up
+
+npm run test:e2e

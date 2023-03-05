@@ -2,9 +2,9 @@
   "name": "personal-password-manager",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Lucas Cardoso",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "",
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
